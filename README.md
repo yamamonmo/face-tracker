@@ -110,7 +110,7 @@ FACE-TRACKER/
 | **ProtoPedia記事** | 山本 |
 | **README** | 米澤 |
 
-### 4.インストール方法（YOLO）
+### YOLOインストール方法
 ```bash
 psudo apt update
 sudo apt install python3-pip -y

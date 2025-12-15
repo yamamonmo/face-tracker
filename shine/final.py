@@ -2,9 +2,9 @@ import cv2
 import time
 import random
 # --- FIX: Changed 'vision' back to 'camera' to match your file name ---
-from vision import find_and_open, camera, end_camera
+from shine.vision import find_and_open, camera, end_camera
 # --- FIX: Changed 'control' back to 'servo' to match your file name ---
-from control import move_servo, convert_angle, return_center, servo1, servo2
+from shine.control import move_servo, convert_angle, return_center, servo1, servo2
 
 # --- Search Pattern Variables ---
 
